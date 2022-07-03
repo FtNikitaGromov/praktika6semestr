@@ -19,9 +19,9 @@ Colab notebook - https://models.roboflow.com/object-detection/yolov4-tiny-darkne
 Blog post - https://blog.roboflow.com/train-yolov4-tiny-on-custom-data-lighting-fast-detection/
 
 
-Распознавание кругов
+Распознавание глаз
 
-![image](https://user-images.githubusercontent.com/90152615/175313711-3eebdcff-44df-4019-a0c5-f4e5c2ebb7b7.png)
+![image](https://user-images.githubusercontent.com/90610084/177035178-c2e50557-d001-41d4-bff6-d700cf0a7f80.png)
 
 
 
