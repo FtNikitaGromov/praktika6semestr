@@ -28,3 +28,7 @@ Blog post - https://blog.roboflow.com/train-yolov4-tiny-on-custom-data-lighting-
 Распознавание касок:
 
 ![image](https://user-images.githubusercontent.com/90610084/177034199-607f2849-0441-45ae-9d8b-76917c0edc8a.png)
+
+Демонстрация веб-нейросети:
+
+![image](https://user-images.githubusercontent.com/90610084/177035205-afb38fbc-e997-41f4-85ac-ca7af61b2582.png)
