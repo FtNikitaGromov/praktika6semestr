@@ -7,3 +7,5 @@ OpenCV: Template Matching, - использовать встроенную фу�
 Mask R-CNN Object Counting API https://github.com/ahmetozlu/tensorflow_object_counting_api/tree/master/mask_rcnn_counting_api Недостаток, сложнее запустить, будет зависеть от ПК tf.Session заменяем на tf.compat.v1.Session 
 
 Датасеты для сравнения по маске можно посмотреть тут COCO - Common Objects in Context (cocodataset.org)
+
+![image](https://user-images.githubusercontent.com/90610084/177035402-b71db0ef-214b-476f-a22b-c17137ccca39.png)
